@@ -78,6 +78,3 @@ src/
 - [Axios](https://axios-http.com/)
 - [FreeCurrencyAPI](https://freecurrencyapi.com/)
 
-## License
-
-This project is licensed under the
